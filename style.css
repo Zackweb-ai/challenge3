@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    object-fit: cover;
+}
+html{
+    background-image: url(img/fond.png);
+    font-family: 'Montserrat', sans-serif;
+
+}
+.navig{
+    width: 100%;
+    height: 150px;
+    margin: auto;
+    margin-top: 100px;
+    background-color:#57B2B2;
+    padding-bottom: 20px;
+    border-bottom: #4B9AA0 solid 3px ;
+    border-top: #4B9AA0 solid 3px ;
+    font-family: 'Slabo 27px', serif;
+    font-size: 1.1em;
+
+
+
+
+}
+.links li a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Slabo 27px', serif;
+
+}
+.links li{
+    display: inline-block;
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 0;
+}
+.links{
+    margin-left: 650px;
+
+}
+.logo{
+    margin-left: 700px;
+}
+.content{
+    margin: auto;
+    width: 600px;
+    text-align: center;
+    margin-top: 30px;
+}
+.content h2{
+    padding: 10px;
+    color: #454A54;
+    font-family: 'Slabo 27px', serif;
+
+}
+.content p{
+   color: #4F5D65;
+}
+.card1{
+    height: 730px;
+    width: 600px;
+    background-color: #B6DEDC;
+    /* margin-top: 60px; */
+    margin-left: 0px;
+    font-size: 1.3em;
+}
+.mini-cards{
+    display: flex;
+    margin-left: 20px;
+}
+.mini-cards1{
+    margin-top: 30px;
+    width: 250px;
+    padding: 10px;
+}
+.mini-cards1 img{
+    border-radius: 50%;
+    float: left;
+    padding: 10px;
+}
+.mini-cards1 p{
+    font-size: 13px;
+}
+.card1 h2{
+    color: #4FA2A7;
+    padding: 10px;
+    margin-left: 200px;
+    padding-top: 30px;
+    font-family: 'Slabo 27px', serif;
+
+}
+.card1 h2 span{
+    color: #454A54;
+    font-family: 'Slabo 27px', serif;
+
+}
+.mini-cards1 h3{
+    text-align: center;
+    padding-bottom: 20px;
+    /* font-family: 'Slabo 27px', serif; */
+    font-size: .8em;
+    color: #454A54;
+
+
+}
+.mini-cards1 button{
+    background-color: #4B9AA0;
+    color: white;
+    width: 130px;
+    height: 30px;
+    border: none;
+    margin-top: 20px;
+}
+.cards{
+    width: 1000px;
+    display: flex;
+    margin: auto;
+    margin-top: 40px;
+
+}
+.card2{
+    width: 220px;
+    background-color: #57B2B2;
+    margin-left: 30px;
+    border: #4B9AA0 solid 4px;
+    padding: 20px;
+    height: 600px;
+}
+.card2 img{
+    height: 20px;
+    float: left;
+}
+.card2 p{
+    clear: both;
+    color: white;
+
+}
+.card2 h3 span{
+    color: #B6DEDC;
+    font-family: 'Slabo 27px', serif;
+}
+.card2 h3{
+    padding-bottom: 10px;
+    color: white;
+    font-family: 'Slabo 27px', serif;
+
+}
+.cnt{
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+.cnt h4{
+    color: #B6DEDC;
+}
+.logo2{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    right: 175px;
+    top: 760px;
+}
+footer{
+width: 1000px;
+margin: auto;
+text-align: center;
+margin-top: 30px;
+margin-bottom: 30px;
+color: #454A54;
+font-size: 10px;
+}
+footer img{
+width: 50px;
+margin: 10px;
+}
