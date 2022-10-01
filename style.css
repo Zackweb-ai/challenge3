@@ -16,7 +16,7 @@ html{
     height: 150px;
     margin: auto;
     margin-top: 100px;
-    background-color:#57B2B2;
+    background-color:#58B4B5;
     padding-bottom: 20px;
     border-bottom: #4B9AA0 solid 3px ;
     border-top: #4B9AA0 solid 3px ;
@@ -56,13 +56,14 @@ html{
     padding: 10px;
     color: #454A54;
     font-family: 'Slabo 27px', serif;
+    margin-bottom: 10px;
 
 }
 .content p{
    color: #4F5D65;
 }
 .card1{
-    height: 730px;
+    height: 780px;
     width: 600px;
     background-color: #B6DEDC;
     /* margin-top: 60px; */
@@ -84,7 +85,7 @@ html{
     padding: 10px;
 }
 .mini-cards1 p{
-    font-size: 13px;
+    font-size: 14px;
 }
 .card1 h2{
     color: #4FA2A7;
@@ -115,6 +116,7 @@ html{
     height: 30px;
     border: none;
     margin-top: 20px;
+    margin-left: 120px;
 }
 .cards{
     width: 1000px;
